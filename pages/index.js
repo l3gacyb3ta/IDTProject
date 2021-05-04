@@ -33,7 +33,8 @@ function HomePage() {
             IDT Project
         </Heading>
           <Text as="p" variant="subtitle" mt={3}>
-            Raleigh's IDT project about careers, written in next.js with theme-ui. (Press the circle for dark mode!)
+            Raleigh's IDT project about careers, written in next.js with theme-ui. (Press the circle for dark mode!) <br />
+            The code is on <Link href="https://github.com/l3gacyb3ta/IDTProject">GitHub</Link>.
         </Text>
         </Container>
       </Box >
