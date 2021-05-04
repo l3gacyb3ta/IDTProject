@@ -1,0 +1,21 @@
+{
+  "name": "NextApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hackclub/theme": "^0.3.1",
+    "next": "^9.5.5",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "theme-ui": "^0.7.5"
+  }
+}
