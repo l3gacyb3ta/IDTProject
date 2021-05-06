@@ -2,24 +2,12 @@ import Wrapper from '../components/wraper'
 import '@hackclub/theme/fonts/reg.css'
 import {
   BaseStyles,
-  Badge,
   Box,
-  Button,
   Card,
-  Checkbox,
   Container,
-  Flex,
-  Grid,
   Heading,
-  Input,
-  Label,
   Link,
-  NavLink,
-  Radio,
-  Select,
-  Slider,
   Text,
-  Textarea
 } from 'theme-ui'
 import styles from '../styles/IDT.module.css'
 
@@ -188,7 +176,7 @@ function HomePage() {
           <img className={styles.image} src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F._%D0%A4%D0%A6%D0%9D_%28%D0%A2%D1%8E%D0%BC%D0%B5%D0%BD%D1%8C%29_01.JPG/205px-%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F._%D0%A4%D0%A6%D0%9D_%28%D0%A2%D1%8E%D0%BC%D0%B5%D0%BD%D1%8C%29_01.JPG" />
           <p>
             Healthcare informatics or biomedical informatics is the branch of science and engineering that apply informatics fields to medicine. <br />
-            Health Information Specialists manage the flow and storage of medical data. <br/ >
+            Health Information Specialists manage the flow and storage of medical data. <br />
             <Text variant="subheadline">
               Duties:
             </Text>
